@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Swashman's GitHub stats](https://github-readme-stats.vercel.app/api?username=swashman&show_icons=true&theme=chartreuse-dark&hide_border=true)](https://github.com/swashman)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swashman&layout=compact&theme=chartreuse-dark&hide_border=true)
